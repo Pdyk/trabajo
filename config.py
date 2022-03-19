@@ -1,5 +1,5 @@
 BOT_TOKEN = 'Aqui ponga el token de su bot'
-PV_USERS = ['sinarrobamamawebo']
+PV_USERS = ['nautaii']
 
 USERS = {}
 def saveDB():
