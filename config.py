@@ -1,4 +1,4 @@
-BOT_TOKEN = 'Aqui ponga el token de su bot'
+BOT_TOKEN = '5187853556:AAFu7KhfXjJLqGlwm_M8ySdlkeHQV7h_neQ'
 PV_USERS = ['nautaii']
 
 USERS = {}
